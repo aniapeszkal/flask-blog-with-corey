@@ -1,0 +1,7 @@
+.DS_Store
+.envrc
+.idea/
+.python-version
+__pycache__/
+profile_pics
+site.db
